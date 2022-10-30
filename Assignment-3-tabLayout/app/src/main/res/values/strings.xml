@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TabLayout</string>
+    <string name="add">Add</string>
+    <string name="version">Version</string>
+    <string name="codename">Code Name</string>
+    <string name="android9">Android 9.0</string>
+    <string name="android8">Android 8.0</string>
+    <string name="pie">Pie</string>
+    <string name="oreo">Oreo</string>
+</resources>
