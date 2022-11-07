@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="question1">1. Kotlin is developed by?</string>
+    <string name="answer11">Google</string>
+    <string name="answer12">JetBrains</string>
+    <string name="answer13">Microsoft</string>
+    <string name="question2">2. Which of following is used to handle null exceptions in Kotlin?</string>
+    <string name="answer21">Sealed Class</string>
+    <string name="answer22">Elvis Operator</string>
+    <string name="answer23">Lambda function</string>
+</resources>
