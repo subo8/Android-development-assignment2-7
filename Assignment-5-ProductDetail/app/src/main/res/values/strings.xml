@@ -1,3 +1,30 @@
 <resources>
-    <string name="app_name">ProductDetail</string>
+    <string name="app_name">WallmartLogin</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_create">Create a new account</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string-array name="electronics">
+        <item>Accessories Supplies</item>
+        <item>Camera Photo</item>
+        <item>Car Electronics</item>
+        <item>Cell Phones Accessoriesr</item>
+        <item>Computers Accessories</item>
+        <item>Headphones</item>
+        <item>Home Audio Theater</item>
+        <item>Marine Electronics</item>
+        <item>Office Electronics</item>
+        <item>Portable Audio Video</item>
+        <item>Security Surveillance</item>
+        <item>Service Replacement Plans</item>
+        <item>Televisions Video</item>
+        <item>Video Game Consoles Accessories</item>
+        <item>Video Projectors</item>
+        <item>Wearable Technology</item>
+    </string-array>
 </resources>
